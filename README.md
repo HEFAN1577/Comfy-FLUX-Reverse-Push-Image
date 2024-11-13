@@ -16,3 +16,4 @@ Note: It appears that this plugin uses a specific model and requires an API key 
 第三步：在新建节点中搜索“groq_prompt_reverse”。
 
 注：使用本插件需要首先获取gorq的API密钥，并且需要克隆github上的仓库。
+![微信截图_20241113123225](https://github.com/user-attachments/assets/8feb6f7e-08e2-4d1f-9857-82a96b95f04a)
