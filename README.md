@@ -1,4 +1,4 @@
-# Comfy-FLUX-Reverse-Push-Image
+# FLUX Reverse Prompt Generation Plugin
 "This plugin calls the gorq, llama-3.2-90b-vision-preview model. Gorq is currently free, and the image generation speed is extremely fast, taking only 1 second to generate an image. When combined with FLUX image generation, it's a blessing for low-configuration computers. To use this plugin, follow these steps:
 
 1. Go to www.groq.com to apply for an API key.
